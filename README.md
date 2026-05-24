@@ -3,7 +3,7 @@
 Personal cybersecurity learning through HackTheBox, TryHackMe, and custom security projects.
 
 **GitHub:** github.com/ankitvaish/security-lab  
-**LinkedIn:** linkedin.com/in/ankitvaish  
+**LinkedIn:** www.linkedin.com/in/ankit-cyber-2325asv
 **Email:** ankit2003germany@gmail.com
 
 ---
