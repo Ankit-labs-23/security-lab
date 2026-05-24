@@ -19,17 +19,25 @@ Documented learning path through TryHackMe rooms, from fundamentals to advanced 
 
 ## Learning Path
 Tier 1: Fundamentals (Current)
-├── Network basics
-├── Web security intro
-└── Linux fundamentals
+- Network basics
+  
+- Web security intro
+  
+- Linux fundamentals
+  
 Tier 2: Intermediate (Next)
-├── Advanced web security
-├── SIEM basics
-└── Incident response
+- Advanced web security
+  
+- SIEM basics
+  
+- Incident response
+  
 Tier 3: Advanced (Future)
-├── Penetration testing
-├── Malware analysis
-└── Red team operations
+- Penetration testing
+  
+- Malware analysis
+  
+- Red team operations
 
 **Last Updated:** May 2026
 
