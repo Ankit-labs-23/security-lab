@@ -19,14 +19,22 @@ Complete walkthroughs of HackTheBox machines with exploitation techniques and de
 ## Difficulty Progression
 Easy (Foundation)
 ├── Lame (SMB RCE)
+
 ├── Blue (EternalBlue)
+
 ├── Devel (FTP + IIS)
+
 ├── Jerry (Tomcat)
+
 └── Irked (IRC Exploit)
+
 Medium (Intermediate)
 ├── Cronos (DNS, Cron)
+
 ├── Grandpa (Windows IIS)
+
 └── Sense (pfSense)
+
 Hard (Advanced)
 └── (Coming soon)
 
